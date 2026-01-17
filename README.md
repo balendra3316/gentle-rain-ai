@@ -4,7 +4,7 @@ A high-fidelity front-end clone of [gentlerain.ai](https://gentlerain.ai) built 
 
 ## 🚀 Live Demo
 
-live-
+live- https://gentle-rain-ai.vercel.app/
 
 ## 🛠️ Tech Stack
 
